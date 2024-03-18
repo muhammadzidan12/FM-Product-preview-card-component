@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop]()
-![Mobile]()
+![Desktop](./design/desktop-result.png)
+![Mobile](./design/mobile-result.png)
 
 ### Links
 
 - Solution URL: [Here]()
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://zidannn24.github.io/FM-Product-preview-card-component/)
 
 ## My process
 
